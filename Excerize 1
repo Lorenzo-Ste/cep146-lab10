@@ -3,3 +3,22 @@
 
 
 -------------------------------------------------------------------------------------------
+
+Hugging Face Transformers: The purpose of this is it provides tools and pretrained models for language processing, translation, text generation and AI applications. 
+License: Apache 2.0.
+Commerical use: Yes.
+Attribution: Yes you need to attribute to the original creators.
+Yes you are allowed to modify and redistribute this.
+The restriction is you have to preserve copyright and license notices and document huge changes.
+
+-------------------------------------------------------------------------------------------
+
+LightGBM: The purpose is a machine learning framework used for fast data analysis, classifcation and predictions.
+License: MIT.
+Commerical use: Yes.
+Attribution: Yes you need to attribute to the original creators.
+YEs you are allowed to modify and redistribute this.
+The restriction is you must include the original copyright and also include the permission notice when you are redistributing the software.
+
+------------------------------------------------------------------------------------------
+
